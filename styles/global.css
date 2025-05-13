@@ -34,6 +34,10 @@ html, button {
   font: var(--button-label);
 }
 
+html {
+  zoom: .4;
+}
+
 h1 {
   font: var(--heading1);
 }
