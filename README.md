@@ -1,3 +1,5 @@
+![Screenshot 2025-05-15 at 00 26 17](https://github.com/user-attachments/assets/2f3cf51b-34ad-441d-b7b5-7e898592b65a)
+
 # 🛼 Snitap Animations
 
 **Snitap Animations** é um projeto da trilha Full-Stack da Rocketseat desenvolvido com o objetivo de praticar e explorar animações CSS aplicadas em um layout de site fictício para uma marca de patins. O projeto demonstra como transições, transformações e keyframes podem ser utilizados para criar uma experiência visual envolvente e interativa.
