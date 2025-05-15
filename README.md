@@ -33,9 +33,9 @@ Para visualizar o projeto:
    git clone https://github.com/gumeyohas/patins-animations.git
    ```
 2. Navegue até o diretório do projeto:
-```bash
-cd patins-animations
-```
+   ```bash
+   cd patins-animations
+   ```
 3. Abra o arquivo index.html em seu navegador preferido.
 Ou simplesmente acesse o link: https://gumeyohas.github.io/patins-animations/
 
