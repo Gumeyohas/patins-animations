@@ -1,6 +1,6 @@
 # 🛼 Snitap Animations
 
-**Snitap Animations** é um projeto pessoal desenvolvido com o objetivo de praticar e explorar animações CSS aplicadas em um layout de site fictício para uma marca de patins. O projeto demonstra como transições, transformações e keyframes podem ser utilizados para criar uma experiência visual envolvente e interativa.
+**Snitap Animations** é um projeto da trilha Full-Stack da Rocketseat desenvolvido com o objetivo de praticar e explorar animações CSS aplicadas em um layout de site fictício para uma marca de patins. O projeto demonstra como transições, transformações e keyframes podem ser utilizados para criar uma experiência visual envolvente e interativa.
 
 🔗 Acesse o projeto: [gumeyohas.github.io/patins-animations](https://gumeyohas.github.io/patins-animations/)
 
