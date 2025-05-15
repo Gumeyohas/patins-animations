@@ -24,15 +24,6 @@ O projeto apresenta diversas animações, incluindo:
 - **Efeitos de hover** que destacam produtos e chamadas para ação.
 - **Transformações** que criam movimentos dinâmicos e interativos.
 
-## 📁 Estrutura do Projeto
-patins-animations/
-├── index.html
-├── css/
-│ └── style.css
-├── images/
-│ └── [imagens utilizadas no projeto]
-└── README.md
-
 ## 🚀 Como Visualizar
 
 Para visualizar o projeto:
